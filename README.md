@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @api9
-- 👀 I’m interested in AI ,Ml ,Cloud Computing , Data Science
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in building products
+- 🌱 I’m currently learning AI tools
+- 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me : email :aparajita1dgogoi@gmail.com
 
 <!---
